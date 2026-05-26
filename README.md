@@ -9,7 +9,6 @@ Information Technology student focusing on full-stack web development and backen
 * **Backend & Frameworks:** PHP (Laravel), Java
 * **Frontend:** Vue.js, JavaScript, HTML5 / CSS3
 * **Databases & Scripting:** SQL (MySQL), Lua
-* **Tools & Environment:** Git, GitHub Copilot
 
 ---
 

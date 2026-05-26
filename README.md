@@ -14,29 +14,21 @@ Information Technology student focusing on full-stack web development and backen
 
 ### Projects
 
-#### EcoWatch
-An environmental violation reporting website built to streamline incident tracking.
-* **Stack:** Laravel, Vue.js, MySQL
-* **Core:** Features a secure user dashboard, public reporting tracking, and regional data sorting.
-* [View Repository](https://github.com/yourusername/ecowatch)
+#### School Feeding Program Management System (SFPMS)
+A role-based management system built for the DepEd Panabo City Division to monitor and track feeding programs across 62 regional schools.
+* **Stack:** Native PHP, SQL (MySQL), Vanilla JavaScript, CSS
+* **Core:** Monitores and manages the DepEd School Feeding Program by tracking student attendance, nutritional/BMI records, and school-level inventory across all 62 Panabo City schools using role-based access controls.
+* [View Repository](https://github.com/markamper04/sfpms)
 
-#### Algorithm Performance Analyzer
-A Java application designed to analyze and benchmark algorithm efficiency.
-* **Core:** Compares execution times and memory usage for search and sorting algorithms across varying dataset sizes.
-* [View Repository](https://github.com/yourusername/algorithm-analyzer)
 
-#### Automation & Scripting Modules
-Lightweight scripts built for system automation and logic handling.
-* **Stack:** Lua
-* [View Repository](https://github.com/yourusername/lua-modules)
 
+#### Barangay Beneficiary Prioritization System (BBES)
+A Java CLI application engineered for data structuring and algorithmic evaluation of community welfare distribution.
+* **Stack:** Java 17, Maven
+* **Core:** Helps barangay officials check which residents qualify for 11 distinct Philippine government assistance programs and ranks them by localized priority and need scores using a custom Shell Sort implementation.
+
+* [View Repository](https://github.com/markamper04/baranggaybenificiaryeligibilitysystem)
 ---
-
-### Current Focus
-
-* Refining full-stack architecture patterns in Laravel and Vue.js.
-* Studying database optimization, triggers, and index performance.
-* Exploring network automation and lightweight backend protocols.
 
 ---
 
@@ -44,4 +36,3 @@ Lightweight scripts built for system automation and logic handling.
 
 * **Email:** markjoshua.amper@email.com
 * **LinkedIn:** linkedin.com/in/yourprofile
-* **GitHub Stats:** `https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=neutral`

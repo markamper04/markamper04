@@ -35,4 +35,4 @@ A Java CLI application engineered for data structuring and algorithmic evaluatio
 ### Contact & Links
 
 * **Email:** markjoshua.amper@email.com
-* **Instagram:** instagram.com/makuu.0407
+* **Instagram:** [Instagram](instagram.com/makuu.0407)

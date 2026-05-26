@@ -1,4 +1,4 @@
-# Mark Joshua Amper
+# Hi, I'm Mark!
 
 Information Technology student focusing on full-stack web development and backend systems. I build applications primarily using PHP, Java, and Vue.js, alongside scripting in Lua.
 
